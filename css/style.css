@@ -61,6 +61,7 @@
      position: fixed;
      bottom: 20px;
      right: 30px;
+     cursor: pointer;
      text-align: center;
      transition: .5s;
      z-index: 99996;
